@@ -3,8 +3,8 @@ var attempt = 3; // Variable to count number of attempts.
 function validate(){
 var username = document.getElementById("username").value;
 // var password = document.getElementById("password").value;
-if ( username == "2103330100075" ){
-alert ("AAJA MERE LAND NAWAB ❤️");
+if ( username == "210018001734" ){
+// alert ("AAJA MERE LAND NAWAB ❤️");
 window.location = "result.html"; // Redirecting to other page.
 return false;
 }
